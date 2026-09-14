@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file datatype="plaintext" original="Sources/TableForms" source-language="en" target-language="en">
+    <body>
+      <trans-unit id="Output3_LabelID" resname="Output3_LabelID">
+        <source>ID : </source>
+        <target>ID : </target>
+      </trans-unit>
+      <trans-unit id="Output3_LabelTitle" resname="Output3_LabelTitle">
+        <source>Title : </source>
+        <target>Title : </target>
+      </trans-unit>
+      <trans-unit id="Output3_LabelText" resname="Output3_LabelText">
+        <source>Text : </source>
+        <target>Text : </target>
+      </trans-unit>
+      <trans-unit id="Output3_LabelSampleSort" resname="Output3_LabelSampleSort">
+        <source>SampleSort : </source>
+        <target>SampleSort : </target>
+      </trans-unit>
+      <trans-unit id="Output3_LabelCopyOfID" resname="Output3_LabelCopyOfID">
+        <source>Copy_of_ID : </source>
+        <target>Copy_of_ID : </target>
+      </trans-unit>
+      <trans-unit id="Output3_LabelName" resname="Output3_LabelName">
+        <source>Name : </source>
+        <target>Name : </target>
+      </trans-unit>
+      <trans-unit id="Output3_LabelIpsum" resname="Output3_LabelIpsum">
+        <source>Ipsum : </source>
+        <target>Ipsum : </target>
+      </trans-unit>
+      <trans-unit id="Output3_LabelHeight" resname="Output3_LabelHeight">
+        <source>Height : </source>
+        <target>Height : </target>
+      </trans-unit>
+      <trans-unit id="Input3_LabelTitle" resname="Input3_LabelTitle">
+        <source>Title : </source>
+        <target>Title : </target>
+      </trans-unit>
+      <trans-unit id="Input3_LabelText" resname="Input3_LabelText">
+        <source>Text : </source>
+        <target>Text : </target>
+      </trans-unit>
+      <trans-unit id="Input3_LabelSampleSort" resname="Input3_LabelSampleSort">
+        <source>SampleSort : </source>
+        <target>SampleSort : </target>
+      </trans-unit>
+      <trans-unit id="Input4_Heading" resname="Input4_Heading">
+        <source>LOREM</source>
+        <target>LOREM</target>
+      </trans-unit>
+      <trans-unit id="Input4_LabelID" resname="Input4_LabelID">
+        <source>ID : </source>
+        <target>ID : </target>
+      </trans-unit>
+      <trans-unit id="Input4_LabelIpsum" resname="Input4_LabelIpsum">
+        <source>Ipsum : </source>
+        <target>Ipsum : </target>
+      </trans-unit>
+      <trans-unit id="Input4_LabelHeight" resname="Input4_LabelHeight">
+        <source>Height : </source>
+        <target>Height : </target>
+      </trans-unit>
+      <trans-unit id="Input4_BtnButton" resname="Input4_BtnButton">
+        <source>Button</source>
+        <target>Button</target>
+      </trans-unit>
+      <trans-unit id="Input4_LabelName" resname="Input4_LabelName">
+        <source>Name :</source>
+        <target>Name :</target>
+      </trans-unit>
+      <trans-unit id="Output4_LabelName" resname="Output4_LabelName">
+        <source>Name</source>
+        <target>Name</target>
+      </trans-unit>
+      <trans-unit id="Output4_LabelIpsum" resname="Output4_LabelIpsum">
+        <source>Ipsum : </source>
+        <target>Ipsum : </target>
+      </trans-unit>
+      <trans-unit id="Output4_LabelHeight" resname="Output4_LabelHeight">
+        <source>Height : </source>
+        <target>Height : </target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

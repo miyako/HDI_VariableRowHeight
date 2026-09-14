@@ -1,2 +1,2 @@
 //%attributes = {"invisible":true}
-C_BOOLEAN:C305(<>Quit)
+  // <>Quit is no longer used; HDI/method.4dm now uses Form.quit instead.

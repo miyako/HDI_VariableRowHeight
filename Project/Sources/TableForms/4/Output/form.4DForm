@@ -58,7 +58,7 @@
 					"width": 76,
 					"height": 17,
 					"sizingX": "grow",
-					"text": "Name"
+					"text": ":xliff:Output4_LabelName"
 				},
 				"S2_Text": {
 					"type": "text",
@@ -67,7 +67,7 @@
 					"width": 240,
 					"height": 17,
 					"sizingX": "grow",
-					"text": "Ipsum : "
+					"text": ":xliff:Output4_LabelIpsum"
 				},
 				"S3_Text": {
 					"type": "text",
@@ -76,7 +76,7 @@
 					"width": 56,
 					"height": 17,
 					"sizingX": "grow",
-					"text": "Height : "
+					"text": ":xliff:Output4_LabelHeight"
 				},
 				"Rectangle5": {
 					"type": "rectangle",

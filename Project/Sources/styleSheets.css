@@ -1,0 +1,22 @@
+/* Cross-platform dark mode rules. macOS/Windows-specific rules belong in
+   styleSheets_mac.css / styleSheets_windows.css instead. */
+
+@media (prefers-color-scheme: light) {
+	.lb-lorem {
+		fill: #DFE4FF;
+	}
+
+	.lb-heights {
+		fill: #DFE4FF;
+	}
+}
+
+@media (prefers-color-scheme: dark) {
+	.lb-lorem {
+		fill: #232B3D;
+	}
+
+	.lb-heights {
+		fill: #232B3D;
+	}
+}
