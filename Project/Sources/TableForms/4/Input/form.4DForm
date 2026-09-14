@@ -99,7 +99,7 @@
 					"height": 17,
 					"sizingX": "grow",
 					"stroke": "#000000",
-					"text": "LOREM"
+					"text": ":xliff:Input4_Heading"
 				},
 				"Line7": {
 					"type": "line",
@@ -248,7 +248,7 @@
 					"width": 53,
 					"height": 17,
 					"textAlign": "right",
-					"text": "ID : "
+					"text": ":xliff:Input4_LabelID"
 				},
 				"Text9": {
 					"type": "text",
@@ -257,7 +257,7 @@
 					"width": 53,
 					"height": 17,
 					"textAlign": "right",
-					"text": "Ipsum : "
+					"text": ":xliff:Input4_LabelIpsum"
 				},
 				"Text10": {
 					"type": "text",
@@ -266,15 +266,15 @@
 					"width": 53,
 					"height": 17,
 					"textAlign": "right",
-					"text": "Height : "
+					"text": ":xliff:Input4_LabelHeight"
 				},
 				"Button": {
 					"type": "button",
 					"top": 222,
 					"left": 28,
 					"width": 117,
-					"height": 20,
-					"text": "Button",
+					"text": ":xliff:Input4_BtnButton",
+					"class": "default",
 					"focusable": false,
 					"method": "ObjectMethods/Button.4dm",
 					"events": [
@@ -288,7 +288,7 @@
 					"width": 53,
 					"height": 17,
 					"textAlign": "right",
-					"text": "Name :"
+					"text": ":xliff:Input4_LabelName"
 				},
 				"S2_Field": {
 					"type": "input",

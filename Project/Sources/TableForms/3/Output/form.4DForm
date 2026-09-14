@@ -69,7 +69,7 @@
 					"sizingX": "grow",
 					"fontFamily": ".Helvetica Neue DeskInterface",
 					"fontSize": 12,
-					"text": "ID : "
+					"text": ":xliff:Output3_LabelID"
 				},
 				"S2_Text": {
 					"type": "text",
@@ -80,7 +80,7 @@
 					"sizingX": "grow",
 					"fontFamily": ".Helvetica Neue DeskInterface",
 					"fontSize": 12,
-					"text": "Title : "
+					"text": ":xliff:Output3_LabelTitle"
 				},
 				"S3_Text": {
 					"type": "text",
@@ -91,7 +91,7 @@
 					"sizingX": "grow",
 					"fontFamily": ".Helvetica Neue DeskInterface",
 					"fontSize": 12,
-					"text": "Text : "
+					"text": ":xliff:Output3_LabelText"
 				},
 				"S4_Text": {
 					"type": "text",
@@ -102,7 +102,7 @@
 					"sizingX": "grow",
 					"fontFamily": ".Helvetica Neue DeskInterface",
 					"fontSize": 12,
-					"text": "SampleSort : "
+					"text": ":xliff:Output3_LabelSampleSort"
 				},
 				"S5_Text": {
 					"type": "text",
@@ -113,7 +113,7 @@
 					"sizingX": "grow",
 					"fontFamily": ".Helvetica Neue DeskInterface",
 					"fontSize": 12,
-					"text": "Copy_of_ID : "
+					"text": ":xliff:Output3_LabelCopyOfID"
 				},
 				"S6_Text": {
 					"type": "text",
@@ -124,7 +124,7 @@
 					"sizingX": "grow",
 					"fontFamily": ".Helvetica Neue DeskInterface",
 					"fontSize": 12,
-					"text": "Name : "
+					"text": ":xliff:Output3_LabelName"
 				},
 				"S7_Text": {
 					"type": "text",
@@ -135,7 +135,7 @@
 					"sizingX": "grow",
 					"fontFamily": ".Helvetica Neue DeskInterface",
 					"fontSize": 12,
-					"text": "Ipsum : "
+					"text": ":xliff:Output3_LabelIpsum"
 				},
 				"S8_Text": {
 					"type": "text",
@@ -146,7 +146,7 @@
 					"sizingX": "grow",
 					"fontFamily": ".Helvetica Neue DeskInterface",
 					"fontSize": 12,
-					"text": "Height : "
+					"text": ":xliff:Output3_LabelHeight"
 				},
 				"Rectangle10": {
 					"type": "rectangle",

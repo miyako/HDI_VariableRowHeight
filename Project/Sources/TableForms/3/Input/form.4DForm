@@ -189,7 +189,7 @@
 					"textAlign": "right",
 					"fontFamily": "Lucida Grande",
 					"fontSize": 13,
-					"text": "Title : "
+					"text": ":xliff:Input3_LabelTitle"
 				},
 				"Text15": {
 					"type": "text",
@@ -200,7 +200,7 @@
 					"textAlign": "right",
 					"fontFamily": "Lucida Grande",
 					"fontSize": 13,
-					"text": "Text : "
+					"text": ":xliff:Input3_LabelText"
 				},
 				"Text16": {
 					"type": "text",
@@ -211,7 +211,7 @@
 					"textAlign": "right",
 					"fontFamily": "Lucida Grande",
 					"fontSize": 13,
-					"text": "SampleSort : "
+					"text": ":xliff:Input3_LabelSampleSort"
 				},
 				"Title": {
 					"type": "input",
