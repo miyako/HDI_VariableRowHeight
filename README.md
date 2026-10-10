@@ -45,9 +45,9 @@ Page 3 shows the `_Heights` array in a second list box (`LB3`) alongside two but
 
 Converted from the 4D v16 binary `.4DB` to the `.4DProject` architecture.
 
-| Branch | Description | Instructions |
-|--------|-------------|--------------|
-| [`miyako-hdi-modernisation`](../../tree/miyako-hdi-modernisation) | Full HDI modernisation on top of `main`: XLIFF localisation for menus/forms/methods, a rebuilt startup dialog, standard menu actions, method visibility fixes, dark mode CSS, and Tahoe Liquid Glass button theming. | [localisation.instructions.md](.github/instructions/localisation.instructions.md), [startup.instructions.md](.github/instructions/startup.instructions.md), [menu.instructions.md](.github/instructions/menu.instructions.md), [method.visibility.instructions.md](.github/instructions/method.visibility.instructions.md), [css.instructions.md](.github/instructions/css.instructions.md), [tahoe.css.instructions.md](.github/instructions/tahoe.css.instructions.md), [listbox.instructions.md](.github/instructions/listbox.instructions.md) |
+| Branch | Description | Guidance |
+|--------|-------------|----------|
+| [`miyako-hdi-modernisation`](../../tree/miyako-hdi-modernisation) | Full HDI modernisation on top of `main`: XLIFF localisation for menus/forms/methods, a rebuilt startup dialog, standard menu actions, method visibility fixes, dark mode CSS, and Tahoe Liquid Glass button theming. | [`4dlocalise`](https://github.com/miyako/skills/tree/main/4d-skills/skills/4dlocalise), [`4dstartup`](https://github.com/miyako/skills/tree/main/4d-skills/skills/4dstartup), [hdi.startup.instructions.md](.github/instructions/hdi.startup.instructions.md), [`4dproject`](https://github.com/miyako/skills/tree/main/4d-skills/skills/4dproject), [`4dmethods`](https://github.com/miyako/skills/tree/main/4d-skills/skills/4dmethods), [`4dcss`](https://github.com/miyako/skills/tree/main/4d-skills/skills/4dcss), [`4dform`](https://github.com/miyako/skills/tree/main/4d-skills/skills/4dform) |
 
 ## References
 
